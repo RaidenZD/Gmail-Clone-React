@@ -1,8 +1,8 @@
 # About Project
-This is a Gmail clone project made bu react.\
+This is a Gmail clone project made via react.\
 User can sign up via google auth.\
 User can send imaginary emails to someone which will be displayed in the app immediately.\
-Project is powered by firebase./
+Project is powered by firebase.
 
 ## In This Project I Used:
 -React JS for creating the UI.\

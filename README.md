@@ -1,3 +1,19 @@
+# About Project
+This is a Gmail clone project made bu react.\
+User can sign up via google auth.\
+User can send imaginary emails to someone which will be displayed in the app immediately.\
+Project is powered by firebase./
+
+## In This Project I Used:
+-React JS for creating the UI.\
+-Css 3 for styling.\
+-Redux toolkit for state management.\
+-Material UI for icons and some of the components.\
+-React router for navigation between pages.\
+-React-Hook-Form for working with forms.\
+-Firebase for storing data in the backend.\
+-Firebase auth for authentication.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
